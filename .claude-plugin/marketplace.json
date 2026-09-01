@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "tatsh-skills",
+  "owner": {
+    "name": "Andrew Udvare",
+    "url": "https://github.com/Tatsh"
+  },
+  "metadata": {
+    "description": "Andrew Udvare's Claude Code plugins and skills."
+  },
+  "plugins": [
+    {
+      "name": "wiswa-rules",
+      "source": "./plugins/wiswa-rules",
+      "description": "Project conventions: use .sbclaude-venv for Python, .wiswa-ci/ as scratchpad."
+    }
+  ]
+}

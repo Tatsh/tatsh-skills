@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "wiswa-rules",
+  "description": "Project conventions: use .sbclaude-venv for Python, .wiswa-ci/ as scratchpad.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Andrew Udvare",
+    "url": "https://github.com/Tatsh"
+  }
+}
